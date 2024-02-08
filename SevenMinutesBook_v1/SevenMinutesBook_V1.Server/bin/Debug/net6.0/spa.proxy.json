@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\TNT\\source\\repos\\Harishpal003\\SevenMinutesBook\\SevenMinutesBook_V1\\SevenMinutesBook_V1.Server\\..\\sevenminutesbook_v1.client",
+"MaxTimeoutInSeconds": "120"
+}
+}

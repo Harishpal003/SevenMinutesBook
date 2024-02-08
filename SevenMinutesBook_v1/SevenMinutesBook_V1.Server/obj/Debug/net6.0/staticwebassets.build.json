@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "9//kywllvNv6yCv7vDF7BLkAjDKCALwKwEiw4T0E+sM=",
+  "Source": "SevenMinutesBook_V1.Server",
+  "BasePath": "_content/SevenMinutesBook_V1.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\TNT\\source\\repos\\Harishpal003\\SevenMinutesBook\\SevenMinutesBook_V1\\sevenminutesbook_v1.client\\sevenminutesbook_v1.client.esproj",
+      "Version": 2,
+      "Source": "sevenminutesbook_v1.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;Configuration;Platform;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;Configuration;Platform;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

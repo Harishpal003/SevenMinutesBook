@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SevenMinutesBook_V1.Server.props" />
+</Project>
